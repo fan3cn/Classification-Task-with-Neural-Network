@@ -14,7 +14,10 @@ This is the programming assignment of Data Mining course(course code:CSIT5210/MS
 
 - Shell tools: awk&**shulf**&sed are properly installed
 
-  ​
+## Data preparation
+please go to http://www.cse.ust.hk/~leichen/courses/mscbd-5002/assignments/dataset.rar or https://drive.google.com/open?id=1bldf8x1isvLjlRAXjadTcXJkDayQeQNJ to download the dataset.
+**Extract it into folder `dataset`**
+
 
 ## How to run?
 
