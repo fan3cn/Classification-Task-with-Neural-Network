@@ -1,0 +1,8 @@
+load_video
+play_video
+pause_video
+seek_video_forward
+seek_video_backward
+stop_video 
+speed_change_video_fast
+speed_change_video_slow
